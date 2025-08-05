@@ -1,3 +1,4 @@
+<img width="1" height="4" alt="Screenshot 2025-08-05 144603" src="https://github.com/user-attachments/assets/3f1bbcc5-4524-4734-b5af-85911fe06d99" />
 ## Create Aptos Dapp Boilerplate Template
 
 The Boilerplate template provides a starter dapp with all necessary dapp infrastructure and a simple wallet info implementation, transfer APT and a simple message board functionality to send and read a message on chain.
