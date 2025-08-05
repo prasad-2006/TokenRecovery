@@ -1,0 +1,12 @@
+[package]
+name = "ProjectContract"
+version = "1.0.0"
+authors = []
+
+[addresses]
+project_contract = "0xd6112d252e26abc08052d9cd107f9d821aa72e8deddc81ba6923eacfe621e526"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework/", rev = "devnet" }
+
+[dev-dependencies]
