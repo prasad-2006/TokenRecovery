@@ -1,4 +1,4 @@
-<img width="1877" height="827" alt="Screenshot 2025-08-05 180646" src="https://github.com/user-attachments/assets/a16264e2-cccf-4438-ac38-78664d2c88b8" />
+
 # Aptos Token Recovery Contract
 
 A comprehensive Move-based smart contract solution on the Aptos blockchain designed to recover tokens that have been mistakenly sent to incorrect addresses, providing users with a safety net for common transaction errors.
@@ -240,5 +240,5 @@ Currently deployed on Aptos devnet for testing.
 
 **Built with ❤️ by the Token Recovery Team**
 
-*Making Aptos more forgiving, one recovery at a time.*
-<img width="1877" height="827" alt="Screenshot 2025-08-05 180646" src="https://github.com/user-attachments/assets/69ce1b66-7e80-4fee-8aa7-e62f02d23e4f" />
+<img width="1892" height="855" alt="Screenshot 2025-08-05 211736" src="https://github.com/user-attachments/assets/aa6311c0-742d-4f55-a943-435c06ce838c" />
+
