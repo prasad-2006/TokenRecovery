@@ -233,6 +233,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📊 Project Status
 
 Currently deployed on Aptos devnet for testing.
+## contract address
+0x3179bb996d89e30c9c4a7774cf763c71fc9b19c8e4c5210bb6ea8efe45f62d98
 
 ---
 
